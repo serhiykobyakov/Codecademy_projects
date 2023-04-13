@@ -1,3 +1,3 @@
 ## Codecademy project:
 
-US-Medical-Insurance-Costs
+US Medical Insurance Costs
