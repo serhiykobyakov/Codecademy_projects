@@ -1,3 +1,3 @@
-## Codecademy project:
+## Codecademy projects
 
-US Medical Insurance Costs
+Here I put projects made by me during the training on the course "Data Scientist: Machine Learning" at Codecademy
