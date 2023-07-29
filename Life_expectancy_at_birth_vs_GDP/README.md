@@ -10,7 +10,9 @@ It is impossible to distinguish only one or few factors and use them as a basis 
 
 However, statistics may suggest some general approach to solve a complicated problem. Among other, statistics define and aggregate parameters which can sum up effects of several factors into one-number estimation.
 
-Statistically, expected lifespan can be described as Life expectancy at birth: how long, on average, a newborn can expect to live, if current death rates do not change. Technically, it is an estimation of newbon's lifespan, not it's actual average years of life [^1].
+Statistically, expected lifespan can be described as **life expectancy at birth**: how long, on average, a newborns are expected to live, if current death rates do not change. Technically, it is an estimation of newbon's lifespan, not it's actual average years of life [^1].
+
+An aggregate parameter, which describes factors influencing the lifespan, is country's **gross domestic product** (GDP): the total monetary or market value of all the finished goods and services produced within a country’s borders in a specific time period (a year if nothing else is stated).
 
 
 ![test img](le_extrema_by_country.png)
