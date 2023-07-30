@@ -36,7 +36,7 @@ Five countries out of six have a comparable mean life expectancies around 75 yea
 
 ![test img](le_lines_by_year_country.png)
 
-All countries show increase of life expectancy in the considered time period. Most of the countries show small life expectancy increase for about 2..3 years. Larger values observed for China (+4.4 years) and Zimbabwe (+16.4 years).
+The dynamics of variable is best seen in line plots. All countries show increase of life expectancy in the considered time period. Most of the countries show small life expectancy increase for about 2..3 years. Larger values observed for China (+4.4 years) and Zimbabwe (+16.4 years).
 
 
 ![test img](le_extrema_by_country.png)
