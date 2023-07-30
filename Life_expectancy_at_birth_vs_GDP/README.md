@@ -56,6 +56,10 @@ Large positive correlation coefficient between LEAB and GDP has been found for a
 
 The larger is country's GDP - the longer is Life expectancy of the country's citizens. For Chile, Germany, Mexico and USA the Life expectancy - GDP relations visually resemble linear dependencies. In case of China it may be a kind of power function. Zimbabwe shows change of trend at GDP 0.6 billion from down to up.
 
+## Conclusion
+
+Life expectancy at birth depends on GDP in the six considered countries.
+
 ## Limitations of the data and possible further research
 
 In this research only six countries were shown which is a small sample. Other countries can also be explored, which would certainly enrich the study.
