@@ -38,12 +38,19 @@ Five countries out of six have a comparable mean life expectancies around 75 yea
 
 The dynamics of variable is best seen in line plots. All countries show increase of life expectancy in the considered time period. Most of the countries show small life expectancy increase for about 2..3 years. Larger values observed for China (+4.4 years) and Zimbabwe (+16.4 years).
 
-
-![test img](le_extrema_by_country.png)
-
 ### GDP
 
+![test img](gdp_bar_by_country.png)
 
+There is a large difference in GDP among all countries. The distance between lowest country's GDP and largest is three orders of magnitude.
+
+![test img](gdp_lines_by_year_country.png)
+
+All countries show increase of their GDP in the considered time period. Most of the countries increased their GDP for about 75..300%, and China shows the largest increase of 813%.
+
+## Life expectancy at birth and GDP relatioship
+
+![test img](le_vs_gdp_for_each_country.png)
 
 
 [^1]: https://blogs.worldbank.org/opendata/what-does-life-expectancy-birth-really-mean
