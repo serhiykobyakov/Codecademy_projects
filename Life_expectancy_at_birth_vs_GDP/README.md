@@ -48,7 +48,7 @@ There is a large difference in GDP among all countries. The distance between low
 
 All countries show increase of their GDP in the considered time period. Most of the countries increased their GDP for about 75..300%, and China shows the largest increase of 813%.
 
-## Life expectancy at birth and GDP relatioship
+## Life expectancy at birth and GDP relationship
 
 ![test img](le_vs_gdp_for_each_country.png)
 
