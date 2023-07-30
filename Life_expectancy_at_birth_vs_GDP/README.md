@@ -52,6 +52,18 @@ All countries show increase of their GDP in the considered time period. Most of 
 
 ![test img](le_vs_gdp_for_each_country.png)
 
+Life expectancy at birth, as a variable, is a statistical estimation which may depend on a lot of factors which are specific to certain territory or country. One of the factors can be country's GDP. The larger is GDP - the better living conditions country can provide for it's citizens. If latter is true, on average, citizen's life duration must be longer.
+
+The Life expectancy at birth vs GDP plots show strong positive correlations between GDPs and life expectancies for all countries considered in this project. The larger is country's GDP - the longer is Life expectancy of the country's citizens. For Chile, Germany, Mexico and USA the Life expectancy - GDP relations visually resemble linear dependencies. In case of China it may be a kind of power function. Zimbabwe shows change of trend at GDP 0.6 billion from down to up.
+
+Based on this findings it can be concluded that Life expectancy at birth depends on GDP in the six considered countries.
+
+## Limitations of the data and possible further research
+
+In this research only six countries were shown which is a small sample. Other countries can also be explored, which would certainly enrich the study.
+
+Interesting insights can be found in inter-country study where some particular factors affecting lifespan can be found.
+
 
 [^1]: https://blogs.worldbank.org/opendata/what-does-life-expectancy-birth-really-mean
 
