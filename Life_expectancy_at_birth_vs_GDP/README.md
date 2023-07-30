@@ -24,6 +24,10 @@ If environment affects lifespan, then statistics must show a relationship betwee
 
 The data for this project has been provided by Codecademy. The data contains LEAB and GDP statistics for six countries: Chile, China, Germany, Mexico, United States of America, Zimbabwe. The range of years covers the period from 2000 to 2015 for all countries, no missing records found.
 
+![data overview](le_gdp_box_by_country.png)
+
+The data show clear differences between countries. Though the sample is small, we have here a good variety in GDP and some different LEABs.
+
 ### Life expectancy at birth
 
 ![test img](le_bar_by_country.png)
