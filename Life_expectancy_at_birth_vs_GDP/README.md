@@ -1,24 +1,14 @@
-# How environment affects our lifespan?
+# Relationship between Life expectancy at birth and gross domestic product in six countries
 
-## Problem introduction
+## Project motivation
 
-How to live a long and happy life? Isn't this an old question people have been asking themselves for a long time in our civilization?
+This is one of the short projects I made during the training on the course "Data Scientist: Machine Learning" at Codecademy.
 
-Is there a simple answer to this question?
+## Definitions
 
-A lot of scientific studies shows that a large number of factors affect human longevity. Some of them are physical like quality of air and food, weather, atmospheric pressure etc. Others are psychological (person's mindset, communication quality with our closest relatives and at work) and cultural. Some factors influence us directly, other - indirectly. Some factors have immediate effect, some other - delayed. Also, some factors are interrelated with each other, and we can say with full confidence: the situation is very complicated.
+**Life expectancy at birth** (LEAB): how long, on average, a newborns are expected to live, if current death rates do not change. Technically, it is an estimation of newbon's lifespan, not it's actual average years of life [^1].
 
-It is impossible to distinguish only one or few factors and use them as a basis to develop the strategy for long and healthy life.
-
-However, statistics may provide a general approach to solve complicated problems. Among other, statistics define and aggregate parameters which can sum up effects of several factors into one-number estimation.
-
-## Research approach
-
-Statistically, expected lifespan can be described as **life expectancy at birth** (LEAB): how long, on average, a newborns are expected to live, if current death rates do not change. Technically, it is an estimation of newbon's lifespan, not it's actual average years of life [^1].
-
-An aggregate parameter, which encompass a lot of factors influenced out environment, is country's **gross domestic product** (GDP): the total monetary or market value of all the finished goods and services produced within a country’s borders in a specific time period. GDP describes the particular country's life environment since not only GDP defines the level of life, but also citizens of the coutry, living their life, contribute to GDP.
-
-If environment affects lifespan, then statistics must show a relationship between these two parameters. Naturally, if we are looking for a relationship between LEAB and GDP only - we must only compare these parameters within each country.
+**Gross domestic product** (GDP): the total monetary or market value of all the finished goods and services produced within a country’s borders in a specific time period. GDP describes the particular country's life environment since not only GDP defines the level of life, but also citizens of the coutry, living their life, contribute to GDP.
 
 ## Data
 
@@ -58,13 +48,13 @@ The larger is country's GDP - the longer is Life expectancy of the country's cit
 
 ## Conclusion
 
-Life expectancy at birth depends on GDP in the six considered countries.
+Life expectancy at birth is in strong relationship with GDP in the six considered countries. Еhis fact may indicate that GDP may encompass or influence on some factors that, in turn, influence the citizen's lifespan.
 
 ## Limitations of the data and possible further research
 
 In this research only six countries were shown which is a small sample. Other countries can also be explored, which would certainly enrich the study.
 
-Interesting insights can be found in inter-country study where some particular factors affecting lifespan can be found.
+Interesting insights can be found in inter-country study where some particular factors affecting lifespan may be found.
 
 
 [^1]: https://blogs.worldbank.org/opendata/what-does-life-expectancy-birth-really-mean
