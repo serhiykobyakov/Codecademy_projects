@@ -1,3 +1,3 @@
 ## Codecademy projects
 
-Here I put projects I made during the training on the course "Data Scientist: Machine Learning" at Codecademy
+Here I'll put projects made during the training on the course "Data Scientist: Machine Learning" at Codecademy
